@@ -1,4 +1,4 @@
-# UserSearch
+# Luunxn 
 
 [![GitHub top language](https://img.shields.io/github/languages/top/m4lal0/userSearch?logo=gnu-bash&style=flat-square)](#)
 [![GitHub repo size](https://img.shields.io/github/repo-size/m4lal0/userSearch?logo=webpack&style=flat-square)](#)
